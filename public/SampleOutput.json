@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 8470,
+    "articles": [
+    {
+   "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Jonah E. Bromwich",
+    "title": "Ex-Party Producer Charged in $2.7 Million Bitcoin-Laundering Scheme",
+    "description": "Thomas Spieker’s clients included dark-web drug dealers and a cellphone-hacking identity thief, prosecutors said.",
+    "url": "https://www.nytimes.com/2022/03/24/nyregion/thomas-spieker-bitcoin-scheme.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/03/24/nyregion/24ny-bitcoin1/24ny-bitcoin1-facebookJumbo.jpg",
+    "publishedAt": "2022-03-24T22:50:30Z",
+    "content": "Mr. Spiekers most prominent customer, whom he described as his whale client, was the Eastern European organized crime member, prosecutors said. Mr. Spieker laundered $620,000 for the client, they sai… [+2755 chars]"
+    },
+    {
+   "source": {
+    "id": "wired",
+    "name": "Wired"
+    },
+    "author": "Gian M. Volpicelli",
+    "title": "What Twitter Is Really Planning for Crypto",
+    "description": "The duo behind Twitter Crypto say NFT profile pics and crypto tipping are just the beginning.",
+    "url": "https://www.wired.com/story/twitter-crypto-strategy/",
+    "urlToImage": "https://media.wired.com/photos/624b7db8c736857145d140ef/191:100/w_1280,c_limit/twitter-crypto-1192300351.jpg",
+    "publishedAt": "2022-04-05T11:00:00Z",
+    "content": "You might have heard of crypto Twitter, the corner of the social network where accounts have Bored Apes as profile pictures, posts are rife with talk of tokens, blockchains, and buying the Bitcoin di… [+3133 chars]"
+    },
+    {
+   "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Emma Roth",
+    "title": "Germany shuts down servers for Russian darknet marketplace Hydra",
+    "description": "German authorities have shut down and seized the infrastructure of servers associated with the Russian illegal darknet marketplace Hydra.",
+    "url": "https://www.theverge.com/2022/4/5/23011377/germany-servers-russian-darknet-site-hydra-bitcoin",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/p230_bbmfO1qQ5ZuapX9JJbHPiY=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11556959/acastro_170621_1777_0001_fin.jpg",
+    "publishedAt": "2022-04-05T19:24:01Z",
+    "content": "German authorities have seized $25.2 million USD in Bitcoin\r\nGerman authorities shut down the server infrastructure for the Russian darknet marketplace Hydra, seizing 23 million (~$25.2 million USD) … [+2344 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Slashdot.org"
+    },
+    "author": "EditorDavid",
+    "title": "Bitcoin Reaches Milestone: 19 Millionth Bitcoin Mined",
+    "description": "Bitcoin hit a milestone Friday \"that gets the world ever closer to the moment when the final new bitcoin will enter the world,\" reports Axios. \"The supply of coins broke 19 million...\" \n\n\"Bitcoin is hard-coded so that it has both a predictable emission schedu…",
+    "url": "https://news.slashdot.org/story/22/04/03/0047248/bitcoin-reaches-milestone-19-millionth-bitcoin-mined",
+    "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+    "publishedAt": "2022-04-03T01:35:00Z",
+    "content": "Bitcoin hit a milestone Friday \"that gets the world ever closer to the moment when the final new bitcoin will enter the world,\" reports Axios. \"The supply of coins broke 19 million...\"\"Bitcoin is har… [+641 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Tara Siegel Bernard",
+    "title": "Everyone Has Crypto FOMO, but Does It Belong in Your Portfolio?",
+    "description": "A growing array of investment options make it easier to put digital tokens alongside traditional investments. Here’s what to know.",
+    "url": "https://www.nytimes.com/2022/03/24/your-money/bitcoin-investing-cryptocurrency.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/03/24/business/00cryto-invest/00cryto-invest-facebookJumbo.jpg",
+    "publishedAt": "2022-03-24T07:00:10Z",
+    "content": "Other fund vehicles hold crypto directly, but theyre grappling with different structural problems and carry higher fees, which are a drag on returns.\r\nGrayscale Bitcoin Trust, the largest Bitcoin veh… [+2273 chars]"
+    },
+    {
+   "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Elizabeth Lopatto",
+    "title": "If you’re a Russian YouTuber, how do you get paid now?",
+    "description": "Russian creators are shut off from the global financial system. Some of them are turning to cryptocurrency.",
+    "url": "https://www.theverge.com/2022/3/17/22982122/russia-youtube-crypto-creators-pay-ruble",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/MG_NhB7wSIBIl3S_LG-y-r7iPmg=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/9442221/cryptocurrency_0004__00000_.jpg",
+    "publishedAt": "2022-03-17T13:33:43Z",
+    "content": "When Russia invaded Ukraine, Niki Proshin was already a year into making a living as a vlogger — he had a YouTube channel, a TikTok channel, and an Instagram. He also ran an online Russian club for a… [+5883 chars]"
+    },
+    {
+   "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "El Salvador turns to Binance for help on bitcoin adoption - Reuters.com",
+    "description": "El Salvador is seeking support from cryptocurrency exchange Binance for its implementation of bitcoin as legal tender and the issuance of bitcoin bonds, the Central American country's ambassador to the United States said on Wednesday.",
+    "url": "https://www.reuters.com/world/americas/el-salvador-turns-binance-help-bitcoin-adoption-2022-03-23/",
+    "urlToImage": "https://www.reuters.com/resizer/hQUFyg89hsElzlhGfkPIvaoHxbY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IB36Y4ZKDRLJNA3LRDQAHS7UGM.jpg",
+    "publishedAt": "2022-03-23T20:40:00Z",
+    "content": "SAN SALVADOR, March 23 (Reuters) - El Salvador is seeking support from cryptocurrency exchange Binance for its implementation of bitcoin as legal tender and the issuance of bitcoin bonds, the Central… [+1109 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "Slashdot.org"
+    },
+    "author": "EditorDavid",
+    "title": "Why Isn't Bitcoin Booming?",
+    "description": "\"Bitcoin was seen by many of its libertarian-leaning fans as a kind of doomsday insurance,\" argues a columnist in the New York Times, \"a form of 'digital gold' that would be a source of stability as the world grew more chaotic and unpredictable.... \n\n\"But Bit…",
+    "url": "https://news.slashdot.org/story/22/03/12/0541251/why-isnt-bitcoin-booming",
+    "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+    "publishedAt": "2022-03-12T18:34:00Z",
+    "content": "\"Bitcoin was seen by many of its libertarian-leaning fans as a kind of doomsday insurance,\" argues a columnist in the New York Times, \"a form of 'digital gold' that would be a source of stability as … [+3914 chars]"
+    },
+    {
+   "source": {
+    "id": "wired",
+    "name": "Wired"
+    },
+    "author": "Lily Hay Newman",
+    "title": "Blockchains Have a ‘Bridge’ Problem, and Hackers Know It",
+    "description": "Blockchain bridges are a crucial piece of the cryptocurrency ecosystem, which makes them prime targets for attacks.",
+    "url": "https://www.wired.com/story/blockchain-network-bridge-hacks/",
+    "urlToImage": "https://media.wired.com/photos/62479107eced5c4c5a96ba8b/191:100/w_1280,c_limit/Blockchain-Bridge-Gear-841324400.jpg",
+    "publishedAt": "2022-04-03T11:00:00Z",
+    "content": "This week, the cryptocurrency network Ronin disclosed a breach in which attackers made off with $540 million worth of Ethereum and USDC stablecoin. The incident, which is one of the biggest heists in… [+3084 chars]"
+    },
+    {
+   "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Bitcoin rises 4.4 percent to $46499 - Reuters",
+    "description": "Bitcoin surged 4.41% to $46,499.29 at 22:07 GMT on Sunday, adding $1,963.64 to its previous close.",
+    "url": "https://www.reuters.com/technology/bitcoin-rises-44-percent-46499-2022-03-27/",
+    "urlToImage": "https://www.reuters.com/resizer/nhskA06ML_hR0afSXa80ssu5NBY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P7RD6UHCKZPGZAOSQQZ2ZICBJQ.jpg",
+    "publishedAt": "2022-03-27T22:34:00Z",
+    "content": "March 27 (Reuters) - Bitcoin surged 4.41% to $46,499.29 at 22:07 GMT on Sunday, adding $1,963.64 to its previous close.\r\nBitcoin, the world's biggest and best-known cryptocurrency, is up 41.1% from t… [+353 chars]"
+    },
+    {
+   "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Cryptoverse: Remember when bitcoin was 'anonymous'? - Reuters",
+    "description": "Bitcoin just isn't anonymous enough for a growing cohort of crypto users who are seeking greater seclusion.",
+    "url": "https://www.reuters.com/technology/cryptoverse-remember-when-bitcoin-was-anonymous-2022-03-22/",
+    "urlToImage": "https://www.reuters.com/resizer/c8lOZeoWLIRW0T_RNTBsFOF2F6w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T3V4ZRYO6BPIJKJVNY7C6YYUJQ.jpg",
+    "publishedAt": "2022-03-22T06:15:00Z",
+    "content": "March 22 (Reuters) - Bitcoin just isn't anonymous enough for a growing cohort of crypto users who are seeking greater seclusion.\r\nA volatile class of crypto known as privacy coins, created with the p… [+4776 chars]"
+    },
+    {
+   "source": {
+    "id": "wired",
+    "name": "Wired"
+    },
+    "author": "Gian M. Volpicelli",
+    "title": "War Is Calling Crypto’s ‘Neutrality’ Into Question",
+    "description": "War in Ukraine and Western sanctions against Russia have made cryptocurrency a hot potato for international politics.",
+    "url": "https://www.wired.com/story/crypto-russia-ukraine-sanctions/",
+    "urlToImage": "https://media.wired.com/photos/6226a83bd53a49d05c483fa6/191:100/w_1280,c_limit/business-crypto-war-1130490519.jpg",
+    "publishedAt": "2022-03-08T12:00:00Z",
+    "content": "Whose side is cryptocurrency on? If you had asked Satoshi Nakamoto, the pseudonymous person (or persons) who created the Bitcoin platform in 2008, he/they likely would have rejected the question. The… [+3643 chars]"
+    },
+    {
+   "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Amrita Khalid",
+    "title": "Cash App breach impacted over 8 million users",
+    "description": "Block disclosed today that a security breach involving a former employee impacts 8.2 million Cash App users. In an SEC filing, the company reported that an ex-employee on December 10th downloaded a number of reports with information on customer information. T…",
+    "url": "https://www.engadget.com/cash-app-breach-impacted-over-8-million-users-005757744.html",
+    "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-04/9b3f9d00-b53e-11ec-96fa-2ca3e260fa58",
+    "publishedAt": "2022-04-06T00:57:57Z",
+    "content": "Block disclosed today that a security breach involving a former employee impacts 8.2 million Cash App users. In an SEC filing, the company reported that an ex-employee on December 10th downloaded a n… [+1646 chars]"
+    },
+    {
+   "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Jon Fingas",
+    "title": "Germany seizes the world's largest, longest-serving dark web market",
+    "description": "Authorities aren't done busting dark web crime operations this week. German federal police (the Bundeskriminalamt) working with US law enforcement have seized Hydra Market, billed as the world's largest and longest-serving dark web marketplace. It reportedly …",
+    "url": "https://www.engadget.com/hydra-dark-web-darknet-marketplace-shut-down-204558506.html",
+    "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-04/04c211c0-b519-11ec-9f78-54122da95697",
+    "publishedAt": "2022-04-05T20:45:58Z",
+    "content": "Authorities aren't done busting dark web crime operations this week. German federal police (the Bundeskriminalamt) working with US law enforcement have seized Hydra Market, billed as the world's larg… [+1524 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Julian Dossett",
+    "title": "Cryptocurrency Donations Pour Into Ukraine. This Week in Bitcoin and Crypto News - CNET",
+    "description": "Nonfungible Tidbits: All the bitcoin, cryptocurrency and NFT news for the week ending March 6.",
+    "url": "https://www.cnet.com/personal-finance/crypto/cryptocurrency-donations-pour-into-ukraine-this-week-in-bitcoin-and-crypto-news/",
+    "urlToImage": "https://www.cnet.com/a/img/ZqMWuhVOxJ8FqLi8Vs9ihQDJzPc=/1200x630/2022/03/04/c8f8f15b-e257-4dfd-9f64-a53be254530b/gettyimages-1320502852.jpg",
+    "publishedAt": "2022-03-05T14:45:07Z",
+    "content": "Getty\r\nWelcome to Nonfungible Tidbits. Our focus this week: Russia's war in Ukraine. \r\nIn addition to uprooting the lives of Ukrainians and throwing the international order into chaos, the Russian in… [+3275 chars]"
+    },
+    {
+   "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Julian Dossett",
+    "title": "Is the US Developing a Digital Dollar? This Week's Top Bitcoin & Crypto News - CNET",
+    "description": "Nonfungible Tidbits: All the bitcoin, cryptocurrency and NFT news for the week ending March 18.",
+    "url": "https://www.cnet.com/personal-finance/crypto/is-the-us-developing-a-digital-dollar-this-weeks-top-bitcoin-crypto-news/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/e4de87a14a5ecf108a98c5c482fbcfc2c36906c6/2022/02/04/c5b1979c-a2d6-412c-9866-e1545badf003/gettyimages-1305088166.jpg?auto=webp&fit=crop&height=630&width=1200",
+    "publishedAt": "2022-03-19T13:15:02Z",
+    "content": "Here's what happened this week in the crypto world.\r\nGetty\r\nWelcome to Nonfungible Tidbits, a weekly roundup of news in crypto, NFTs and their related realms.\r\nOur lead story this week is the possibi… [+2860 chars]"
+    },
+    {
+   "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Cryptoverse: Buoyant bitcoin helps market cruise past $2 trillion - Reuters",
+    "description": "As a bleak first quarter draws to a close, crypto seems to have the wind in its sails. It has pushed through the $2 trillion barrier and is proving surprisingly resilient amid global chaos.",
+    "url": "https://www.reuters.com/technology/cryptoverse-buoyant-bitcoin-helps-market-cruise-past-2-trillion-2022-03-29/",
+    "urlToImage": "https://www.reuters.com/resizer/hQUFyg89hsElzlhGfkPIvaoHxbY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IB36Y4ZKDRLJNA3LRDQAHS7UGM.jpg",
+    "publishedAt": "2022-03-29T05:12:00Z",
+    "content": "March 29 (Reuters) - As a bleak first quarter draws to a close, crypto seems to have the wind in its sails. It has pushed through the $2 trillion barrier and is proving surprisingly resilient amid gl… [+4359 chars]"
+    },
+    {
+   "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "El Salvador postpones bitcoin bond issue, expects better conditions - Reuters.com",
+    "description": "El Salvador postponed an unprecedented issue of a bitcoin-backed bond planned for last week, as the government decided to wait for favorable conditions in the financial market, Finance Minister Alejandro Zelaya said on Tuesday.",
+    "url": "https://www.reuters.com/technology/el-salvador-postpones-bitcoin-bond-issue-expects-better-conditions-2022-03-22/",
+    "urlToImage": "https://www.reuters.com/resizer/NOfvIS0_hFVHsF3O_jlbdys4UNQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OABKIIR7I5P7XMGT4Z3TGNQILM.jpg",
+    "publishedAt": "2022-03-22T22:18:00Z",
+    "content": "SAN SALVADOR, March 22 (Reuters) - El Salvador postponed an unprecedented issue of a bitcoin-backed bond planned for last week, as the government decided to wait for favorable conditions in the finan… [+1425 chars]"
+    },
+    {
+   "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "EU lawmakers back new tracing rule for crypto transfers - Reuters.com",
+    "description": "European Union lawmakers backednew safeguards for tracing transfers of bitcoin and other cryptocurrencies on Thursday, in the latest sign that regulators are tightening up on the freewheeling sector.",
+    "url": "https://www.reuters.com/world/europe/eu-lawmakers-back-new-tracing-rule-crypto-transfers-2022-03-31/",
+    "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=82",
+    "publishedAt": "2022-03-31T19:32:00Z",
+    "content": "LONDON, March 31 (Reuters) - European Union lawmakers backednew safeguards for tracing transfers of bitcoin and other cryptocurrencies on Thursday, in the latest sign that regulators are tightening u… [+2266 chars]"
+    },
+    {
+   "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "U.S. company devises method to use coal waste to power crypto - Reuters",
+    "description": "The vast amounts of electricity needed to mine bitcoin has ignited a debate about whether the energy behind the operation is worth the potential environmental costs.",
+    "url": "https://www.reuters.com/business/environment/us-company-devises-method-use-coal-waste-power-crypto-2022-03-21/",
+    "urlToImage": "https://www.reuters.com/resizer/syff3xa3wMiQLouWsDKTtcRLZU8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5GEZARI3NRNM3LPHTNDVSTELGI.jpg",
+    "publishedAt": "2022-03-21T19:46:00Z",
+    "content": "KENNERDELL, Pa., March 21 (Reuters) - The vast amounts of electricity needed to mine bitcoin has ignited a debate about whether the energy behind the operation is worth the potential environmental co… [+1781 chars]"
+    }
+    ]
+    }
